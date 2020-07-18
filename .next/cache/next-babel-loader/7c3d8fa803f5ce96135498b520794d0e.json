@@ -1,1 +1,0 @@
-{"ast":null,"code":"export default (function () {\n  return;\n});","map":{"version":3,"sources":["C:/skandar/workspace/nextjs/app1/pages/index.js"],"names":[],"mappings":"AAAA,gBAAe,YAAM;AACjB;AACF,CAFF","sourcesContent":["export default () => {\r\n    return \r\n }"]},"metadata":{},"sourceType":"module"}
