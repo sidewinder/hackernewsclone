@@ -1,5 +1,5 @@
 import 'isomorphic-fetch'
-import Layout from '../components/Layout'
+import Layout from '../components/layout'
 
 const Index = ({ stories }) => {
       
